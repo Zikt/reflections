@@ -1,0 +1,12 @@
+Still Learning here.
+
+1 Ref
+-->What happens when you initialize a repository? Why do you need to do it?
+
+Git begins to keep track of the repository and it's contents. On the next commit, you can start tracking changes.
+
+
+2 Ref
+-->How is the staging area different from the working directory and the repository?What value do you think it offers?
+
+I am yet to grab the difference
