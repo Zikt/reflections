@@ -10,3 +10,10 @@ Git begins to keep track of the repository and it's contents. On the next commit
 -->How is the staging area different from the working directory and the repository?What value do you think it offers?
 
 I am yet to grab the difference
+++I fully understand. The staging area offers you some kind of operation table -  a work bench to add selected parts of your work and edit them, before commiting.
+
+3 Ref
+-->How can you use the staging area to make sure you have one commit per logical change?
+
+You add only the files that have changes that are logically linked, and commit those files.
+
